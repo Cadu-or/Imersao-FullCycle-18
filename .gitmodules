@@ -1,0 +1,3 @@
+[submodule "nestjs-partners-api"]
+	path = nestjs-partners-api
+	url = https://github.com/Cadu-or/nestjs-partners-api
